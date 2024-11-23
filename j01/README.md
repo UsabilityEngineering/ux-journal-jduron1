@@ -4,24 +4,24 @@
 Most of the game involves the player taking orders and planning routes to successfully deliver packages to clients that request them. There are also some combat aspects to the game, but I’ll be focusing on the delivery aspect. A rating system is present in the game to show the player how well they did the delivery, so proper planning is vital to getting a good rating. For the player to properly plan a delivery, they need to navigate through many menus to take on orders, make tools, and use the map to create a route. Some goals that occur during regular gameplay therefore include accepting orders, adequately preparing before doing the delivery to have a higher success rate, and delivering the packages. \
 &emsp; When taking on orders and gathering items to help the player’s delivery, the menu options are clearly labeled, and they contain subtitles to explain to the player what the purpose of the options are for. Some of the menu options contain submenus to avoid overwhelming the user with all of the options for them to choose. To start a delivery, I would need to press the “Take on Orders” button and choose what type of order I want.
 
-![Terminal Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/terminal_menu.png)
+![Terminal Menu](assets/terminal_menu.png)
 How the menu looks when taking on an order. The submenu options could be grayed out to signify that a certain type of order isn't available.
 
 The game makes it **efficient** to take on an order and prepare by giving me the option to make items that would be useful for my journey and organize the cargo for delivery, so I don’t have to manually go to that menu myself. In addition, the game shows me the orders I’m currently working on so as to not go overboard with the deliveries as there is a weight limit to how much the player character can carry.
 
-![Orders Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/orders_menu.png)
+![Orders Menu](assets/orders_menu.png)
 This is a list of orders that can be accepted. The right-hand side shows the current orders to the player (a button needs to be pressed to fully see the current orders). The bottom shows the players stats to show how capable they are for the order. The location of the destination is also shown with respect to the player character.
 
-![Equipment Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/equipment_menu.png)
+![Equipment Menu](assets/equipment_menu.png)
 The "Fabricate Equipment screen is shown next to let the player create any tools that they may need to do the delivery successfully. Along with symbols to show the user what is being made and what materials are needed, there are names to complement the symbols to ensure that the player knows what they are.
 
-![Prep Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/prep_menu.png)
+![Prep Menu](assets/prep_menu.png)
 Finally, the "Delivery Preparation" screen is shown to organize the cargo. Either one piece of cargo or multiple pieces can be selected to move it around, making the preparation more efficient.
 
 However, an issue with this convenience is that these menus contain tons of information, which can be overwhelming to new players and may not be obvious what information they convey. The game tries to take off some of the burden from the players by walking them through what all of the information on the screen means, but I think this can be improved by containing a button that takes the players to the in-game manual that contains more information depending on what they’re looking at.
 &emsp; After an order is accepted, I do some more preparation by going into the map and plotting my route to the destination. This stage of preparation is optional as I don’t need to plot the route on my map (which is good as it lets players play how they want to play), but doing this is **effective** in getting a good rating for my delivery as there is terrain that could lead to the cargo being damaged if I’m not careful. To plot the route in my map, I hold a button to and drag it out to make a line that connects two points. I make multiple of these connections to show the full path to my destination as I can see the lines during gameplay.
 
-<img src="https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/map_route.gif" width="1200" alt="Map Route">
+<video src="assets/map_route.mp4" width="1200"></video>
 This is how a route can be plotted on the map. The route can be seen in gameplay and guides me to my destination.
 
 ![Map Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/map_menu.png)
