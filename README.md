@@ -8,4 +8,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Using the Menus to Complete a Delivery in Death Stranding](j01/README.md)
