@@ -21,7 +21,7 @@ Finally, the "Delivery Preparation" screen is shown to organize the cargo. Eithe
 However, an issue with this convenience is that these menus contain tons of information, which can be overwhelming to new players and may not be obvious what information they convey. The game tries to take off some of the burden from the players by walking them through what all of the information on the screen means, but I think this can be improved by containing a button that takes the players to the in-game manual that contains more information depending on what they’re looking at.
 &emsp; After an order is accepted, I do some more preparation by going into the map and plotting my route to the destination. This stage of preparation is optional as I don’t need to plot the route on my map (which is good as it lets players play how they want to play), but doing this is **effective** in getting a good rating for my delivery as there is terrain that could lead to the cargo being damaged if I’m not careful. To plot the route in my map, I hold a button to and drag it out to make a line that connects two points. I make multiple of these connections to show the full path to my destination as I can see the lines during gameplay.
 
-<video src="assets/map_route.mp4" width="1200"></video>
+<video src="assets/map_route.mp4" width="1000" autoplay loop></video>
 This is how a route can be plotted on the map. The route can be seen in gameplay and guides me to my destination.
 
 ![Map Menu](https://github.com/UsabilityEngineering/ux-journal-jduron1/blob/main/assets/j01-assets/map_menu.png)
