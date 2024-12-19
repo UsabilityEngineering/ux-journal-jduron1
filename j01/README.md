@@ -22,7 +22,7 @@ Finally, the "Delivery Preparation" screen is shown to organize the cargo. Eithe
 However, an issue with this convenience is that these menus contain tons of information, which may increase **cognitive load** for new players and may not be obvious what information they convey. The game tries to take off some of the burden from the players by walking them through what all of the information on the screen means, but I think this can be improved by containing a button that takes the players to the in-game manual that contains more information depending on what they’re looking at. \
 &emsp; After an order is accepted, I do some more preparation by going into the map and plotting my route to the destination. This stage of preparation is optional as I don’t need to plot the route on my map (which is good as it lets players play how they want to play), but doing this is **effective** in getting a good rating for my delivery as there is terrain that could lead to the cargo being damaged if I’m not careful. To plot the route in my map, I hold a button to and drag it out to make a line that connects two points. I make multiple of these connections to show the full path to my destination as I can see the lines during gameplay.
 
-<video src="assets/map_route.mp4" width="1000" autoplay loop muted></video>
+<video src="assets/map_route.mp4" style="width: 100%; max-width: 1000px; height: auto;" autoplay loop muted></video>
 This is how a route can be plotted on the map. The route can be seen in gameplay and guides me to my destination.
 
 ![Map Menu](assets/map_menu.png)
@@ -34,5 +34,5 @@ Plotting a route could be made more **effective** if the game designers changed 
 ![Cargo Highlight](assets/cargo_highlight.png)
 This is how the cargo appears when I approach the destination. This feedback shows which cargo in particular I will deliver. The other cargo that is not highlighted will remain on the player character's person.
 
-<video src="assets/delivery.mp4" width="1000" autoplay loop muted></video>
+<video src="assets/delivery.mp4" style="width: 100%; max-width: 1000px; height: auto;" autoplay loop muted></video>
 Navigating the menu to finish the delivery. It's the same menu as when taking on an order, but the game will place the user at the "Deliver Requested Cargo" option by default to make this process easier. The cargo is also shown on the right to show specifically which cargo is being given. In addition, the game shows the rating that I got and lists the criteria to justify the grade, which adds to how well the game gives feedback. However, it's not shown in this clip.
